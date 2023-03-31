@@ -168,3 +168,6 @@ Sprzedarz()
 print('-'*64)
 print("\t\t\tGratulacje przeszedłeś gre")
 print('-'*64)
+
+
+https://1drv.ms/p/s!AihusNxsNXXjfwWqAaK2P6RGcZ8?e=AZLUGl
